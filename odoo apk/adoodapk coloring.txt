@@ -1,0 +1,5 @@
+R 135
+G 90
+B 123
+#status bar #713661
+background #875A7B
